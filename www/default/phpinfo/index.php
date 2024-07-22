@@ -12,6 +12,9 @@
 	?>
 </nav>
 <hr/>
+
+<?php echo "see you later" ?>
+
 <?php
 echo '<div id="phpinfo">';
 phpinfo();
