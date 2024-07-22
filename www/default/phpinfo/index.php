@@ -19,3 +19,4 @@
 echo '<div id="phpinfo">';
 phpinfo();
 echo '</div>';
+`

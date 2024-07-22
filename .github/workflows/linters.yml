@@ -15,7 +15,7 @@ jobs:
           file_or_dir: .
 
       # PHP Check linter
-      - name: PHP Syntax Checker (Lint) PHP 7.3
-        uses: StephaneBour/actions-php-lint@7.3
+      - name: PHP Syntax Checker (Lint) PHP 8.1
+        uses: StephaneBour/actions-php-lint@8.1
         with:
           dir: '.'
