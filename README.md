@@ -29,3 +29,9 @@ The online documentation contains more detailed [installation instructions](http
 ## Software included
 
 For a comprehensive list, please see the [list of installed packages](https://varyingvagrantvagrants.org/docs/en-US/installed-packages/).
+
+## Testing
+
+First commit for git actions.
+
+
